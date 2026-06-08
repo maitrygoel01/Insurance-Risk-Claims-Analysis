@@ -419,8 +419,6 @@ The ETL process included:
 
 # 📷 Dashboard Screenshots
 
-## Insurance Risk & Claims Dashboard
-
 <img width="1257" height="722" alt="image" src="https://github.com/user-attachments/assets/b769d81f-a584-4ef1-97fc-c8ed028f9427" />
 
 
